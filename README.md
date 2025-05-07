@@ -49,7 +49,7 @@ Happy Coding! 💻✨
 
   <section>
     <img src="https://via.placeholder.com/300" alt="Sample Image" class="profile-image">
-    <p>This page demonstrates how to apply CSS using an external stylesheet. We're using different selectors, fonts, and spacing techniques.</p>
+    <p>Today is a good day</p>
   </section>
 
 </body>
