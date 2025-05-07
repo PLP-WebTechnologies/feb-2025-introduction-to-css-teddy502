@@ -48,7 +48,7 @@ Happy Coding! 💻✨
   </header>
 
   <section>
-    <img src="https://via.placeholder.com/300" alt="Sample Image" class="profile-image">
+    <img src="https://www.pexels.com/video/captivating-autumn-forest-at-sunrise-31646575/" alt="" class="profile-image">
     <p>Today is a good day</p>
   </section>
 
